@@ -1,6 +1,6 @@
 # Project Prompt
 <br>
-###Project Overview & Data
+**Project Overview & Data**
 **The Business Problem**
 <br>
 You’re working for a marketing consultancy firm (congrats on the new job!) One of your
